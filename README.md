@@ -27,6 +27,12 @@ https://user-images.githubusercontent.com/100426860/188335668-2f476294-ff0c-451e
 
 ![](notebook.gif)
 # Platform Used For Development
-** Android Studio **
+ Android Studio 
+# Programming language used
+  Kotlin
+# Database
+  SQLite - Android Room
+# UI 
+  Jetpack Compose - Android's modern toolkit for building native UI
 
 
